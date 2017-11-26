@@ -1,0 +1,11 @@
+# Python:
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+dist
+build 
+*.gz 
+*.py
+*.lixinsong-Lenovo-G50-80
+.ipynb_checkpoints
