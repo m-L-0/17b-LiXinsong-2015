@@ -7,6 +7,7 @@
 - [**tensorflow 实现 knn 算法**](./FashionMNIST_Challenge/code/knn.ipynb) 
 - [**tensorflow 实现K-means**](./FashionMNIST_Challenge/code/tensorflow_k-means.ipynb) 
 - [**numpy 实现K-means**](./FashionMNIST_Challenge/code/np_k-means.ipynb)
+- [**tensorflow实现 nn**](./FashionMNIST_Challenge/code/nn.ipynb)
 - [**tensorflow 实现 cnn**](./FashionMNIST_Challenge/code/cnn.ipynb)
 
 
