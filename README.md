@@ -17,7 +17,7 @@
 
 ### 实验手册
 
-[**实验手册**](./Vehicle_License_Plate_Recognition/实验手册) 
+[**实验手册**](./Vehicle_License_Plate_Recognition/实验手册.md) 
 
 ### 操作要点
 
