@@ -21,7 +21,10 @@
 
 ### 操作要点
 
-- [将分类好的图片及其标签序号存入到TFRecord文件中,并读取文件](./Vehicle_License_Plate_Recognition/code/dataset.ipynb) 
-- [统计每类字符的数量](./Vehicle_License_Plate_Recognition/code/histogram.ipynb) 
-- [设计卷积神经网络结构并利用卷积神经网络对字母数字进行训练](./Vehicle_License_Plate_Recognition/code/cnn.ipynb) 
-- [训练结果](车牌.txt)
+- 将分类好的图片及其标签序号存入到TFRecord文件中,并读取文件
+- 统计每类字符的数量，画出柱状图和饼图
+- 进行归一化，正则化处理
+- 设计卷积神经网络结构并利用卷积神经网络对字母数字进行训练
+- 训练完一次用一次验证集　
+- 训练结果和测试结果
+- 统计正确率，召回率
